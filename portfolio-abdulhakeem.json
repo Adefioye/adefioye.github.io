@@ -1,13 +1,13 @@
 {
   "name": "Abdulhakeem Adefioye",
-  "label": "Software Engineer | AI Enthsuiast",
+  "label": "Software Engineer | AI Enthusiast",
   "image_path": "portfolio_media/profile.jpg",
   "contact": {
     "email": "adefioyeabdulhakeem@gmail.com",
     "phone": "",
     "location": "Saint Paul, MN, USA"
   },
-  "summary": "I am a Software Engineer and AI Enthusiast. I love building scalable full stack applications both in web and mobile. I am currently actively researching how to improve reasoning capabilities in AI systems.",
+  "summary": "I am a Software Engineer and AI Enthusiast. I love building scalable and performant full stack applications both in web and mobile. I am currently actively researching how to improve reasoning capabilities in AI systems.",
   "url": "https://adefioye-portfolio.netlify.app/",
   "social_links": [
     {
