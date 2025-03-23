@@ -1,5 +1,5 @@
 {
-  "name": "Corey Schafer",
+  "name": "Abdulhakeem Adefioye",
   "label": "Software Engineer | AI Enthsuiast",
   "image_path": "portfolio_media/profile.jpg",
   "contact": {
@@ -8,7 +8,7 @@
     "location": "Saint Paul, MN, USA"
   },
   "summary": "I am a Software Engineer and AI Enthusiast. I love building scalable full stack applications both in web and mobile. I am currently actively researching how to improve reasoning capabilities in AI systems.",
-  "url": "https://coreyms.com",
+  "url": "https://adefioye-portfolio.netlify.app/",
   "social_links": [
     {
       "label": "Abdulhakeem.com",
@@ -100,6 +100,7 @@
   "opensource_experience": [
     {
       "organization": "OpenThoughts",
+      "position": "Core Contributor",
       "project": "Reasoning-gym",
       "url": "https://github.com/open-thought/reasoning-gym",
       "summary": "Procedural dataset generators with adjustable complexity for training and evaluating reasoning models.",
@@ -108,6 +109,7 @@
     {
       "organization": "EmergenceAI",
       "project": "AgentE",
+      "position": "Contributor",
       "url": "https://www.emergence.ai/web-automation-api",
       "summary": "An AI agent that automates web tasks using Playwright and Python.",
       "highlights": ["Created feature that allows AgentE to leverage open-source LLMs(Llama, Groq, etc.)."]
@@ -128,35 +130,29 @@
   ],
   "skills": [
     {
-      "name": "Python, Flask, Django",
-      "proficiency": 100,
-      "proficiency_label": "Expert"
-    },
-    {
-      "name": "System Administration, Linux",
-      "proficiency": 90,
+      "name": "TypeScript, JavaScript, React, Nextjs, Nodejs, React-query, Jest",
+      "proficiency": 80,
       "proficiency_label": "Advanced"
     },
     {
-      "name": "JavaScript, HTML, CSS",
+      "name": "Swift, Kotlin",
+      "proficiency": 80,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "HTML, CSS, TailwindCSS, Bootstrap",
       "proficiency": 75,
       "proficiency_label": "Comfortable"
-    }
-  ],
-  "interests": [
+    },
     {
-      "name": "Woodworking",
-      "summary": "",
-      "images": [
-        {
-          "img_path": "portfolio_media/ww1.jpg",
-          "caption": "Chess Board made from Walnut and Maple"
-        },
-        {
-          "img_path": "portfolio_media/ww2.jpg",
-          "caption": "Wooden Necklace from Walnut Scrap"
-        }
-      ]
+      "name": "Pytorch, Python, VeRL, TrL",
+      "proficiency": 75,
+      "proficiency_label": "Comfortable"
+    },
+    {
+      "name": "Spring Boot, Java, Postgres, Docker, Github Actions, AWS",
+      "proficiency": 75,
+      "proficiency_label": "Comfortable"
     }
   ],
   "languages": [],
