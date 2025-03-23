@@ -1,0 +1,164 @@
+{
+  "name": "Corey Schafer",
+  "label": "Software Engineer | AI Enthsuiast",
+  "image_path": "portfolio_media/profile.jpg",
+  "contact": {
+    "email": "adefioyeabdulhakeem@gmail.com",
+    "phone": "",
+    "location": "Saint Paul, MN, USA"
+  },
+  "summary": "I am a Software Engineer and AI Enthusiast. I love building scalable full stack applications both in web and mobile. I am currently actively researching how to improve reasoning capabilities in AI systems.",
+  "url": "https://coreyms.com",
+  "social_links": [
+    {
+      "label": "Abdulhakeem.com",
+      "url": "https://adefioye-portfolio.netlify.app/",
+      "svg_path": "img/globe.svg"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/abdulhakeem-software-engineer/",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "Github",
+      "url": "https://github.com/adefioye",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Sonos, Inc.",
+      "position": "Software Development Engineer",
+      "url": "https://www.sonos.com/en-us/home",
+      "start_date": "July, 2024",
+      "end_date": "Feb., 2025",
+      "summary": "",
+      "highlights": [
+        "Improved robustness and reliability of Sonos client applications (iOS, Android) by designing an algorithm for handling unresponsive smart speakers using Swift and Kotlin.",
+        "Enhanced performance of mobile applications (iOS, Android) by eliminating CPU cycles wasted on subscriptions to smart speaker events when application is backgrounded using Swift and Kotlin.",
+        "Improved logging system of Sonos client libraries using Swift and Kotlin.",
+        "Regularly work on fixing system bugs and performing manual and unit tests to mitigate regressions."
+      ]
+    },
+    {
+      "company": "Sonos, Inc.",
+      "position": "Software Engineering Intern",
+      "url": "https://www.sonos.com/en-us/home",
+      "start_date": "June 2023",
+      "end_date": "Aug., 2023",
+      "summary": "",
+      "highlights": [
+        "Improved developer productivity by creating a Typescript application for showcasing best practices in building features used for controlling Sonos smart speakers using Reactjs, Nextjs and React-query.",
+        "Performed 90% code coverage using Jest framework.",
+        "Created documentation and rectified issues on 2 bugs noticed during usage of new consumable web packages."
+      ]
+    },
+    {
+      "company": "GivFree Africa",
+      "position": "Full Stack Developer",
+      "url": "http://givfreeafrica.com/",
+      "start_date": "Jan. 2021",
+      "end_date": "June 2022",
+      "summary": "",
+      "highlights": [
+        "Improved water and beverage product page loading time using sorting and pagination.",
+        "Provision of support system to over 50,000 indigents in Nigeria by creating a feedback collection system using Reactjs, Nodejs and Sendgrid’s API."
+      ]
+    }
+  ],
+  "Personal projects": [
+    {
+      "title": "Cute Places Application",
+      "summary": "The Cute Places App is an application that allows authenticated users to create, edit, delete, comment, like cute places they have created and published. Authenticated users can also like cute places created and published by others.",
+      "url": "https://tiny-gaufre-f55cd2.netlify.app/",
+      "highlights": ["Created recommended places based on similarity of tags", "Created comment feature for each cute place", "Implemented 2 forms of authentication (Google sign-in and JWT authentication)"],
+      "images": [
+        {
+          "img_path": "portfolio_media/yt1.png",
+          "caption": "Main Channel"
+        },
+        {
+          "img_path": "portfolio_media/yt2.png",
+          "caption": "Tutorials"
+        }
+      ]
+    },
+    {
+      "title": "KokoSky API Weather Application",
+      "summary": "API exposing relatime weather data, locations data, daily forecast data using Spring Boot, Java, Postgres, Docker, Github Actions and AWS.",
+      "url": "https://github.com/Adefioye/WeatherService",
+      "highlights": ["To be listed soon..."],
+      "images": [
+        {
+          "img_path": "portfolio_media/yt1.png",
+          "caption": "Main Channel"
+        }
+      ]
+    }
+  ],
+  "opensource_experience": [
+    {
+      "organization": "OpenThoughts",
+      "project": "Reasoning-gym",
+      "url": "https://github.com/open-thought/reasoning-gym",
+      "summary": "Procedural dataset generators with adjustable complexity for training and evaluating reasoning models.",
+      "highlights": ["Built dataset generators for gsm-symbolic task, inductive reasoning task, and more.", "Leveraged GRPO in doing Reinforcement learning training on reasoning-gym dataset generators.", "Built curriculum learning for reasoning-gym dataset generators to adjust complexity."]
+    },
+    {
+      "organization": "EmergenceAI",
+      "project": "AgentE",
+      "url": "https://www.emergence.ai/web-automation-api",
+      "summary": "An AI agent that automates web tasks using Playwright and Python.",
+      "highlights": ["Created feature that allows AgentE to leverage open-source LLMs(Llama, Groq, etc.)."]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Saint Cloud State University",
+      "location": "Saint Cloud, MN, USA",
+      "url": "https://www.stcloudstate.edu/",
+      "degrees": [
+        "Master of Science in Computer Science"
+      ],
+      "honors": [],
+      "gpa_cumulative": "3.84",
+      "graduation_date": "2024"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python, Flask, Django",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "System Administration, Linux",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "JavaScript, HTML, CSS",
+      "proficiency": 75,
+      "proficiency_label": "Comfortable"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Woodworking",
+      "summary": "",
+      "images": [
+        {
+          "img_path": "portfolio_media/ww1.jpg",
+          "caption": "Chess Board made from Walnut and Maple"
+        },
+        {
+          "img_path": "portfolio_media/ww2.jpg",
+          "caption": "Wooden Necklace from Walnut Scrap"
+        }
+      ]
+    }
+  ],
+  "languages": [],
+  "references": []
+}
